@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gvrooyen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://octoco.ltd
+  * I am gvrooyen (https://keybase.io/gvrooyen) on keybase.
+  * I have a public key ASCR_GlQXEndVWDrcKLen-zckiqMikh_-2hwjaBNjqBtJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091fc69505c49dd5560eb70a2de9fecdc922a8c8a487ffb68708da04d8ea06d260a",
+      "host": "keybase.io",
+      "kid": "012091fc69505c49dd5560eb70a2de9fecdc922a8c8a487ffb68708da04d8ea06d260a",
+      "uid": "e24e756654c9190a1ab2a25ef0f24119",
+      "username": "gvrooyen"
+    },
+    "merkle_root": {
+      "ctime": 1587462376,
+      "hash": "a9f6d4a9dcd0973d1f69836ea8bcb170ecdd08232fb893127992e030fa65676198e94d0e2712e80f4a34d813122789381b6cbabcf72517325d1a6e146631fad2",
+      "hash_meta": "05f7971b9741f25a2859e888fc655f4f08029094e01be62f75ba73bb25fa0397",
+      "seqno": 15998147
+    },
+    "service": {
+      "entropy": "VgpOU5bQQb+7FAMRcejJvefW",
+      "hostname": "octoco.ltd",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.0"
+  },
+  "ctime": 1587462451,
+  "expire_in": 504576000,
+  "prev": "bba610c4d7da7b9f2c779537f933a47215927af7d64ddd0e19dcc6e2f6d24e87",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkfxpUFxJ3VVg63Ci3p/s3JIqjIpIf/tocI2gTY6gbSYKp3BheWxvYWTESpcCB8Qgu6YQxNfae58sd5U3+TOkchWSevfWTd0OGdzG4vbSTofEIKq9rdI7VGrNz+1wjdMmMlexVKpI/LenzFUBYbbhWqdFAgHCo3NpZ8RA10ttphXvsFtlyPPWyb7Nkbjrh7HADzH+S3ydKjtj51fguyzJk1AkhNbXFRdjxpI0oJIwqqhw1fjWDRsSoXV9C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPcoTU0FMA6xi+4FoR/jQcnwcw1Wj/sQQRed9Rud3wSto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gvrooyen
+
+==================================================================
